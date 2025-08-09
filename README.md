@@ -55,7 +55,7 @@ This project improves upon that by:
 
 | Registration Successful | Login Successful |
 | --- | --- |
-| ![Registration Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/registration-sucessful.png) | ![Login Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/Login-Sucessful.png) |
+| ![Registration Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/registration-sucessfull.png) | ![Login Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/Login-Sucessfull.png) |
 
 | OTP Verification | Custom Popup for Invalid Login |
 | --- | --- |
