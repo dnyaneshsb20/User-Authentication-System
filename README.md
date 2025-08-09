@@ -51,11 +51,11 @@ This project improves upon that by:
 
 | Registration Screen | Login Screen |
 | --- | --- |
-| ![Registration Screen](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/ragistration.png) | ![Login Screen](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/Login-Page.png) |
+| ![Registration Screen](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/ragistration.png) | ![Login Screen](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/login-page.png) |
 
 | Registration Successful | Login Successful |
 | --- | --- |
-| ![Registration Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/registration-successful.png) | ![Login Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/Login-Successful.png) |
+| ![Registration Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/registration-sucessful.png) | ![Login Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/Login-Sucessful.png) |
 
 | OTP Verification | Custom Popup for Invalid Login |
 | --- | --- |
