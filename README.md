@@ -59,7 +59,7 @@ This project improves upon that by:
 
 | OTP Verification | Custom Popup for Invalid Login |
 | --- | --- |
-| ![OTP Verification](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/OTP-Verification.png) | ![Custom Popup for Invalid Login](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/Invalid-LoginPopup.png) |
+| ![OTP Verification](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/OTP-Verification.png) | ![Custom Popup for Invalid Login](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/Invalid-Login.png) |
 
 
 ---
