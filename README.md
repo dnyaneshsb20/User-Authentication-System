@@ -65,5 +65,5 @@ This project improves upon that by:
 ---
 
 <div align="center">
-© 2024 Dnyanesh Badave | User Authentication System
+© 2025 Dnyanesh Badave | User Authentication System
 </div>
